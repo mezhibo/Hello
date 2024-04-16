@@ -1,1 +1,1 @@
-Hello Nwtology
+Hello Netology
